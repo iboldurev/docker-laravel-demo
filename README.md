@@ -1,5 +1,9 @@
 # Laravel demo docker container
 
+## Installation
+
+Pull container `docker pull iboldurev/docker-laravel-demo`
+
 ## Use
 
 For build container run in terminal `docker build . -t docker-laravel-demo`
